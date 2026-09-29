@@ -1,90 +1,120 @@
 <p align="center">
-  <img src="./assets/minji-retro.svg" width="100%" alt="Minji. Estudiante de Ingeniería de Sistemas. Aprender, construir, volver a intentar." />
+  <img src="./assets/minji-retro.svg" width="100%" alt="Minji. Página personal con estética de computadora retro." />
 </p>
 
 <p align="center">
-  <b>Un reto nuevo. Algo más por aprender. Una idea que convertir en código.</b>
+  <b>Estudiante de Ingeniería de Sistemas · Full stack en formación</b><br />
+  <sub>Me gusta entender lo que pasa desde el primer clic hasta la última consulta.</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/smorsikda?tab=repositories">Explora mis repositorios</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/smorsikda/nestjs">Mi práctica con NestJS</a>
+  <a href="https://github.com/smorsikda?tab=repositories"><img alt="Abrir repositorios" src="https://img.shields.io/badge/ABRIR-REPOSITORIOS-324766?style=for-the-badge" /></a>
+  <a href="https://github.com/smorsikda/nestjs"><img alt="Ver práctica NestJS" src="https://img.shields.io/badge/EN%20CURSO-NESTJS-426F6A?style=for-the-badge" /></a>
+  <img alt="Team Rei 00" src="https://img.shields.io/badge/TEAM-REI%2000-BC6158?style=for-the-badge" />
 </p>
 
 ---
 
-### 👋 Detrás del código
+### 💾 01 / Sobre mí
 
-Soy **estudiante de Ingeniería de Sistemas**, con curiosidad por entender cómo funcionan las cosas y ganas de aprender a construirlas mejor.
+**Hola, soy Minji.** Estudio Ingeniería de Sistemas y me entusiasman los retos que me hacen aprender algo nuevo. Tengo conocimientos de desarrollo web, backend y aplicaciones móviles, y sigo ampliando mi caja de herramientas con cada proyecto.
 
-Me entusiasman los retos que me obligan a salir de lo conocido: explorar un lenguaje, entender una tecnología o encontrar ese detalle que hace que todo finalmente funcione. Me gusta aprender haciendo, hacer preguntas y convertir los errores en pistas para el siguiente intento.
+Me gusta pasar de una idea a una interfaz, conectar esa interfaz con una API y entender qué ocurre por dentro. Conozco **React, Vite y React Native**, además de distintos lenguajes y herramientas que voy usando a lo largo de mi formación.
 
-Este perfil es mi bitácora: aquí comparto prácticas, experimentos y proyectos que acompañan mi formación. Cada repositorio guarda una parte del proceso, desde el primer intento hasta ese pequeño **“¡ya funciona!”** que hace que valga la pena.
+Aquí guardo mis prácticas, experimentos y proyectos. También los intentos que me enseñaron por qué algo no funcionaba. Preguntar, probar y volver a intentar es parte del proceso.
 
-> **Mi objetivo: que cada proyecto me deje mejores preguntas, nuevas herramientas y un poco más de criterio.**
-
-### 💾 Lenguajes y tecnologías que conozco
-
-Tengo conocimientos de **Python, PHP, JavaScript, TypeScript, C, C#, C++ y Java**, además de **HTML y CSS** para desarrollo web. También conozco **Django**, y actualmente sigo profundizando en backend con **Node.js y NestJS**.
-
-Me gusta moverme entre distintos lenguajes: entender cómo resuelven un mismo problema, probar sus herramientas y aprender a elegir el adecuado para cada proyecto.
-
-**Lenguajes**
+> **Mi siguiente proyecto siempre tiene algo que todavía no sé hacer. Ahí está lo interesante.**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-324766?style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-324766?style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-324766?style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-324766?style=flat-square" alt="TypeScript" />
+  <img src="./assets/fullstack-menu.svg" width="100%" alt="Mis áreas: web con React y Vite; backend con Python, Django y NestJS; móvil con React Native." />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-324766?style=flat-square" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-324766?style=flat-square" alt="C#" />
-  <img src="https://img.shields.io/badge/C%2B%2B-324766?style=flat-square" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-324766?style=flat-square" alt="Java" />
+### 🖥️ 02 / Mi caja de herramientas
+
+**Frontend · lo que ves y con lo que interactúas**
+
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-324766?style=flat-square&amp;logo=html5&amp;logoColor=F4F1E4" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-324766?style=flat-square" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-324766?style=flat-square&amp;logo=javascript&amp;logoColor=F4F1E4" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-324766?style=flat-square&amp;logo=typescript&amp;logoColor=F4F1E4" />
+  <img alt="React" src="https://img.shields.io/badge/React-324766?style=flat-square&amp;logo=react&amp;logoColor=F4F1E4" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-324766?style=flat-square&amp;logo=vite&amp;logoColor=F4F1E4" />
 </p>
 
-**Web y frameworks**
+HTML y CSS para estructura y estilos; JavaScript y TypeScript para la lógica; React para interfaces por componentes y Vite como herramienta de desarrollo.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-426F6A?style=flat-square" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-426F6A?style=flat-square" alt="CSS" />
-  <img src="https://img.shields.io/badge/Django-426F6A?style=flat-square" alt="Django" />
-  <img src="https://img.shields.io/badge/NestJS-426F6A?style=flat-square" alt="NestJS" />
+**Backend · lo que hace que todo funcione**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-426F6A?style=flat-square&amp;logo=python&amp;logoColor=F4F1E4" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-426F6A?style=flat-square&amp;logo=django&amp;logoColor=F4F1E4" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-426F6A?style=flat-square&amp;logo=php&amp;logoColor=F4F1E4" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-426F6A?style=flat-square&amp;logo=nodedotjs&amp;logoColor=F4F1E4" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-426F6A?style=flat-square&amp;logo=nestjs&amp;logoColor=F4F1E4" />
 </p>
 
-**Entorno y herramientas**
+Conocimientos de Python, Django y PHP. Actualmente profundizo en Node.js y NestJS para construir APIs y organizar la lógica del servidor.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-BC6158?style=flat-square" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-BC6158?style=flat-square" alt="Git" />
+**Mobile · ideas que caben en el bolsillo**
+
+<p>
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-596582?style=flat-square&amp;logo=react&amp;logoColor=F4F1E4" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-596582?style=flat-square&amp;logo=javascript&amp;logoColor=F4F1E4" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-596582?style=flat-square&amp;logo=typescript&amp;logoColor=F4F1E4" />
 </p>
 
-### 🧊 Mi enfoque actual
+También conozco React Native y me interesa conectar las experiencias web y móviles con un mismo backend.
 
-- **Backend con NestJS:** comprender cómo se organizan los módulos, controladores y servicios.
-- **JavaScript y TypeScript:** fortalecer mis bases y aprender a escribir código más claro.
-- **APIs y datos:** explorar Prisma, bases de datos y autenticación paso a paso.
-- **Aprendizaje constante:** probar nuevos lenguajes y entender cuándo tiene sentido utilizarlos.
+**Otros lenguajes y control de versiones**
 
-### 🛠️ En construcción
+<p>
+  <img alt="C" src="https://img.shields.io/badge/C-725D64?style=flat-square&amp;logo=c&amp;logoColor=F4F1E4" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-725D64?style=flat-square" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-725D64?style=flat-square&amp;logo=cplusplus&amp;logoColor=F4F1E4" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-725D64?style=flat-square" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-725D64?style=flat-square&amp;logo=git&amp;logoColor=F4F1E4" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-725D64?style=flat-square&amp;logo=github&amp;logoColor=F4F1E4" />
+</p>
 
-**[Práctica de backend con NestJS →](https://github.com/smorsikda/nestjs)**  
-Mi espacio para llevar lo aprendido en clase al código y avanzar hacia una API con datos, documentación y autenticación.
+C, C#, C++ y Java también forman parte de mis conocimientos. Me gusta comparar sus enfoques y entender qué herramienta encaja mejor con cada problema.
 
-**[Más repositorios →](https://github.com/smorsikda?tab=repositories)**  
-Otras ideas, ejercicios y proyectos de mi recorrido.
+### 🧩 03 / Mi siguiente nivel full stack
 
-### 🌙 Un dato esencial
+Mi ruta para seguir creciendo conecta **interfaces, servicios y datos**:
 
-**Rei > Asuka.**  
-Mi única decisión de arquitectura que no pienso refactorizar.
+- **Frontend:** profundizar en React y TypeScript, accesibilidad y diseño adaptable.
+- **Backend:** seguir practicando APIs, validación y autenticación con NestJS y Django.
+- **Datos:** incorporar **SQL y PostgreSQL** y avanzar con Prisma en mis prácticas.
+- **De principio a fin:** conectar las piezas, probarlas y aprender a desplegar aplicaciones completas.
+
+<details>
+<summary><b>📂 Abrir carpeta: recursos de mi ruta</b></summary>
+
+- [React — interfaces por componentes](https://react.dev/)
+- [Vite — entorno de desarrollo web](https://vite.dev/guide/)
+- [React Native — aplicaciones móviles](https://reactnative.dev/)
+- [PostgreSQL — introducción a SQL y bases de datos relacionales](https://www.postgresql.org/docs/current/tutorial.html)
+
+</details>
+
+### 🛠️ 04 / En mi escritorio
+
+**[Práctica de backend con NestJS ↗](https://github.com/smorsikda/nestjs)**  
+Llevando lo aprendido en clase al código: mi camino hacia una API con datos, documentación y autenticación.
+
+**[Explorar mis repositorios ↗](https://github.com/smorsikda?tab=repositories)**  
+Más ejercicios, proyectos e ideas de mi recorrido.
 
 ---
 
 <p align="center">
-  <b>La curiosidad pone la primera línea. La constancia escribe el resto.</b><br />
-  <sub>Gracias por pasar por aquí. Nos vemos en el próximo commit. 🧊</sub>
+  <code>guardar progreso → aprender algo → volver a intentar</code>
 </p>
+
+<p align="center">
+  <b>Rei &gt; Asuka.</b><br />
+  <sub>Mi única decisión de arquitectura que no pienso refactorizar.</sub>
+</p>
+
+<p align="center"><sub>MINJI · Gracias por visitar mi rincón de internet.</sub></p>
