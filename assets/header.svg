@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">smorsikda — Estudiante de Ingeniería de Sistemas</title>
+<desc id="desc">Portada azul hielo y negro, inspirada en Rei. Aprender, construir, volver a intentar.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1827"/><stop offset="1" stop-color="#182d42"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#b5e6f5" stop-opacity=".16"/><stop offset="1" stop-color="#b5e6f5" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#bdd8ed" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<ellipse cx="980" cy="165" rx="310" ry="290" fill="url(#glow)"/>
+<path d="M44 42H65M44 42V63M1156 318H1135M1156 318V297" fill="none" stroke="#a8dbea" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<circle cx="75" cy="70" r="4" fill="#c1e9f4"/>
+<text x="91" y="75" font-size="13" letter-spacing="3" fill="#c1e9f4">CURIOSIDAD EN CONSTANTE EVOLUCIÓN</text>
+<text x="69" y="163" font-size="76" font-weight="700" letter-spacing="-3" fill="#f1f7fb">smorsikda<tspan fill="#e27c8a">.</tspan></text>
+<text x="73" y="207" font-size="23" fill="#b9dce9">Estudiante de Ingeniería de Sistemas</text>
+<path d="M74 238H600" stroke="#426076" stroke-opacity=".7"/>
+<text x="74" y="276" font-size="17" fill="#d0e5ef">Aprender. Construir. Volver a intentar.</text>
+<text x="74" y="316" font-size="11" letter-spacing="2" fill="#7899b1">NUEVOS RETOS / NUEVOS LENGUAJES / NUEVAS IDEAS</text>
+<circle cx="991" cy="173" r="105" fill="none" stroke="#91bace" stroke-opacity=".32"/>
+<circle cx="991" cy="173" r="89" fill="none" stroke="#91bace" stroke-opacity=".2" stroke-dasharray="3 9"/>
+<path d="M991 57V81M991 265V289M875 173H899M1083 173H1107" stroke="#a8dbea" stroke-opacity=".7"/>
+<circle cx="1084" cy="122" r="5" fill="#e27c8a"/>
+<text x="991" y="194" text-anchor="middle" font-size="84" font-weight="700" fill="#c3e7f2">00</text>
+<text x="991" y="230" text-anchor="middle" font-size="11" letter-spacing="4" fill="#a8cbdc">TEAM REI</text>
+<text x="991" y="317" text-anchor="middle" font-size="11" letter-spacing="2" fill="#7899b1">KEEP LEARNING, PILOT.</text>
+</g></svg>
