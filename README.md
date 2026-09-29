@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="smorsikda. Estudiante de Ingeniería de Sistemas. Aprender, construir, volver a intentar." />
+  <img src="./assets/minji-retro.svg" width="100%" alt="Minji. Estudiante de Ingeniería de Sistemas. Aprender, construir, volver a intentar." />
 </p>
 
 <p align="center">
